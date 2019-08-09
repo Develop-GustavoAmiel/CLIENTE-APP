@@ -14,6 +14,7 @@ export class ClientesComponent implements OnInit {
 	}
 
 	clientes: Cliente[];
+	clientes1: Cliente[];
 
 	constructor() { }
 
